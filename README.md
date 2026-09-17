@@ -98,7 +98,6 @@ The application provides a menu-driven interface. Follow the prompts to:
 **Student Transcripts**
 <img width="1280" height="513" alt="WhatsApp Image 2026-09-15 at 15 12 52 (2)" src="https://github.com/user-attachments/assets/b98da6de-c5a1-4f33-a3a3-60e7960a1711" />
 
-**Project Purpose**
-The purpose of CCRM is to build a simple academic record management system while applying the Java concepts learned during the course.
+**Project Purpose**                                                                                                                                            The purpose of CCRM is to build a simple academic record management system while applying the Java concepts learned during the course.
 
 The project combines OOP, collections, exception handling, interfaces, streams, file handling, and other Java features in one practical application. It provides a good example of how Java can be used to solve a common problem in a campus environment.
