@@ -87,7 +87,8 @@ The application provides a menu-driven interface. Follow the prompts to:
 ## Sceenshots
 
 **Add Students**
-<img width="1600" height="851" alt="WhatsApp Image 2026-09-16 at 23 23 22" src="https://github.com/user-attachments/assets/a3fe09b7-234c-4b60-8ee7-f0ef9cfc02a5" />
+<img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/0ccfbe32-549b-49b7-b4fa-a2bd2a41311d" />
+
 
 
 **Display**
